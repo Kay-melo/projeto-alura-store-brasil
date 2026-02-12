@@ -19,5 +19,9 @@ O projeto tem como objetivo  avaliar o desempenho das quatro lojas da AluraStore
 2. Instale as dependências necessárias (se houver).
 3. Execute célula por célula para reproduzir os resultados.
 
+## 📊 Gráfico de Faturamento Total por Loja
+
+![Gráfico de Faturamento](imagens/grafico.png)
+
 ## ✨ Autor
 - **Kayane Melo**  
